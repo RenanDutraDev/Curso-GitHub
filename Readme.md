@@ -5,5 +5,5 @@
 Para executar este programa em seu computador, por favor digite:
 
 ```
-npm install react.
+npm install react
 ````
